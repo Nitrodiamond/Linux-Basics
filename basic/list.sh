@@ -28,3 +28,6 @@ ls -S
 # Sort by text modification time
 ls -t 
 
+# View the details about the actual directory and not the contents
+# inside the directory
+ls -ld 
