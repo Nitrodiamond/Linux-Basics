@@ -17,7 +17,7 @@ ls -a
 ls --all 
 
 # Lists content, but adds '/' if it's a directory
-ls -d
+ls -F
 
 # List content in reverse order
 ls -r 
@@ -27,3 +27,4 @@ ls -S
 
 # Sort by text modification time
 ls -t 
+

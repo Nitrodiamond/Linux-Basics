@@ -10,3 +10,5 @@ cd -
 # Example: "cd ~caleb"
 cd ~user_name
 
+# Changes directory to user home folder
+cd ~
